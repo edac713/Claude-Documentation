@@ -2,7 +2,7 @@
 
 ### Sparse Priming Representations (SPRs)
 
-_**A methodological approach in artificial intelligence and natural language processing that employs minimal but strategically selected data inputs to stimulate and direct the knowledge retrieval processes of large language models (LLMs).**_
+_A methodological approach in artificial intelligence and natural language processing that employs minimal but strategically selected data inputs to stimulate and direct the knowledge retrieval processes of large language models (LLMs)._
 
 ### Knowledge Priming Technique
 
