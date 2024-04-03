@@ -1,12 +1,12 @@
 ## Formal Definitions
 
-### *Sparse Priming Representations (SPRs)*
+### 1. Sparse Priming Representations (SPRs)
 
-> A methodological approach in artificial intelligence and natural language processing that employs minimal but strategically selected data inputs to stimulate and direct the knowledge retrieval processes of large language models (LLMs).
+> *A methodological approach in artificial intelligence and natural language processing that employs minimal but strategically selected data inputs to stimulate and direct the knowledge retrieval processes of large language models (LLMs).*
 
-### Knowledge Priming Technique
+### 2. Knowledge Priming Technique
 
-> A process by which large language models are influenced or guided using specifically tailored input sequences to optimize their ability to recall and utilize embedded latent knowledge.
+> *A process by which large language models are influenced or guided using specifically tailored input sequences to optimize their ability to recall and utilize embedded latent knowledge.*
 
 ### Latent Knowledge Activation
 
