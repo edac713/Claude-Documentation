@@ -1,4 +1,3 @@
-<pre>
 <h3><strong>Sparse Priming Representations (SPRs)</strong></h3>
 <code>n.</code>  A methodological approach in <em>artificial intelligence</em>
 and <strong><em>natural language processing</em></strong> that employs minimal but strategically selected data inputs to
