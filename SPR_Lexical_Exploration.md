@@ -1,6 +1,6 @@
 ## Formal Definitions
 
-### Sparse Priming Representations (SPRs)
+### *Sparse Priming Representations (SPRs)*
 
 > A methodological approach in artificial intelligence and natural language processing that employs minimal but strategically selected data inputs to stimulate and direct the knowledge retrieval processes of large language models (LLMs).
 
