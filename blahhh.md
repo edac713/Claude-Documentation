@@ -1,3 +1,4 @@
+---
 ### Sparse Priming Representations (SPRs)
 `n.`  A methodological approach in *artificial intelligence*
 and ***natural language processing*** that employs minimal but strategically selected data inputs to
@@ -14,14 +15,16 @@ utilize embedded **latent knowledge**.
 `n.`  The act of triggering the *recall* of implicit information
 within ***large-scale AI models*** through the use of concise and targeted `prompts` or **cues**.
 
+---
 ### Latent Knowledge
 `n.`  Information stored within a *model* that is not immediately apparent or
 active but can be accessed with specific ***triggers***.
 
+---
 ### Large Language Models (LLMs)
 `n.`  Advanced *AI systems* capable of understanding, generating,
 and interacting with ***human language*** at a `large scale`.
-
+***
 ### Priming
 `n.`  The process of *influencing* a model's response or behavior by providing specific
 information or ***context*** beforehand.
